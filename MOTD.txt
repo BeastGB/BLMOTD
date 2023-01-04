@@ -3,3 +3,5 @@ hello everyone!
 the new cities map is out and there is now a horror mode which is still a work in progress but go try it out! there are also hit sounds now and moderators now have a new moderation tool! Be sure to join the discord for more info on updates and just to talk, we have an awesome community!
 
 I also want to mention that a lot more updates will be coming soon and maybe some more cool stuff! Go explore!
+
+not everything has a hitsound yet so please point out what doesnt have some, most of cities doesnt.
