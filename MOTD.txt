@@ -1,8 +1,5 @@
-New update
--Hit sounds are now synced
--Fixed sparkler volume being a lil loud
--Fixed horror mode lighting
--Fixed Report tab just SHOUTING your name at you not it tells you who you are reporting
-- Don't worry btw The sparkler WILL be a normal cosmetic not just for devs
-WHY IS THERE A SHIT TON OF COSMETICS IN THE MOD VENTS
-idk it was up to geo
+THE HORROR MODE HAS BEEN GIVEN A PATHFINDING AI!
+
+THE JUMPSCARE IS STILL BEING WORKED ON BUT THERE IS AI THAT FOLLOWS YOU! THERE ARE ALSO A FEW MORE THINGS THATS WERE ADDED
+
+THATS IT! MORE COSMETICS AND A JUMPSCARE COMING SOON
