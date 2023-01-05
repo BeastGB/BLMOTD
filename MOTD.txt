@@ -1,6 +1,8 @@
-hello everyone!
-
-the new cities map is out and there is a horror mode which is still a work in progress and it will come out very very soon! there are also hit sounds now and moderators now have a new moderation tool! (if someone is claiming to be a mod, ask them to get the sparkler, tree, or one of the hammers)
-I also want to mention that a lot more updates will be coming soon and maybe some more cool stuff! Go explore!
-
-not everything has a hitsound yet so please point out what doesnt have some, most of cities doesnt.
+New update
+-Hit sounds are now synced
+-Fixed sparkler volume being a lil loud
+-Fixed horror mode lighting
+-Fixed Report tab just SHOUTING your name at you not it tells you who you are reporting
+- Don't worry btw The sparkler WILL be a normal cosmetic not just for devs
+WHY IS THERE A SHIT TON OF COSMETICS IN THE MOD VENTS
+idk it was up to geo
